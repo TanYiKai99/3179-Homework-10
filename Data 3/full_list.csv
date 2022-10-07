@@ -1,0 +1,696 @@
+"","name","latitude","longitude","city","region","cuisine","price","Ranks"
+"1","Kilian Stuba",47.34858,10.17114,"Kleinwalsertal","Austria","Creative","$$$$$",1
+"2","Pfefferschiff",47.83787,13.07917,"Hallwang","Austria","Classic cuisine","$$$$$",1
+"3","Esszimmer",47.80685,13.03409,"Salzburg","Austria","Creative","$$$$$",1
+"4","Carpe Diem",47.80001,13.04006,"Salzburg","Austria","Market cuisine","$$$$$",1
+"5","Edvard",48.216503,16.36852,"Wien","Austria","Modern cuisine","$$$$",1
+"6","Das Loft",48.21272,16.37931,"Wien","Austria","Modern cuisine","$$$$$",1
+"7","Pramerl & the Wolf",48.20945,16.37174,"Wien","Austria","Creative","$$$$$",1
+"8","Walter Bauer",48.20923,16.37672,"Wien","Austria","Classic cuisine","$$$$$",1
+"9","SHIKI",48.204067,16.37098,"Wien","Austria","Japanese","$$$$$",1
+"10","Tian",48.20513,16.37456,"Wien","Austria","Vegetarian","$$$$$",1
+"11","aend",48.18957,16.34115,"Wien","Austria","Modern cuisine","$$$$$",1
+"12","Le Ciel by Toni Mörwald",48.20209,16.37156,"Wien","Austria","Classic cuisine","$$$$$",1
+"13","Chez TJ",37.39468,-122.08044,"South San Francisco","California","Contemporary","$$$$",1
+"14","Protégé",37.427853,-122.14362,"South San Francisco","California","Contemporary","$$$",1
+"15","Madera",37.42014,-122.21151,"San Francisco","California","Contemporary","$$$",1
+"16","The Village Pub",37.42897,-122.25178,"San Francisco","California","Contemporary","$$$",1
+"17","Plumed Horse",37.25648,-122.03537,"South San Francisco","California","Contemporary","$$$$",1
+"18","Wakuriya",37.52114,-122.3366,"San Francisco","California","Japanese","$$$$",1
+"19","Sushi Yoshizumi",37.565075,-122.3211,"San Francisco","California","Japanese","$$$$",1
+"20","Rasa",37.577522,-122.345985,"San Francisco","California","Indian","$$",1
+"21","Maum",37.72669,-122.414215,"South San Francisco","California","Korean","$$$$",1
+"22","Al's Place",37.748924,-122.42013,"San Francisco","California","Californian","$$",1
+"23","Aster",37.755054,-122.423134,"San Francisco","California","Californian","$$$",1
+"24","Omakase",37.77077,-122.40298,"San Francisco","California","Japanese","$$$$",1
+"25","Commonwealth",37.761395,-122.41946,"San Francisco","California","Contemporary","$$",1
+"26","Luce",37.78194,-122.40498,"San Francisco","California","Contemporary","$$$",1
+"27","Birdsong",37.779495,-122.41048,"San Francisco","California","American","$$$$",1
+"28","In Situ",37.785633,-122.40113,"San Francisco","California","International","$$$$",1
+"29","Mourad",37.78695,-122.39987,"San Francisco","California","Moroccan","$$$",1
+"30","Hashiri",37.783062,-122.40754,"San Francisco","California","Japanese","$$$$",1
+"31","Angler",37.793167,-122.39213,"San Francisco","California","Contemporary","$$$$",1
+"32","Rich Table",37.774914,-122.42271,"San Francisco","California","Contemporary","$$$",1
+"33","Kin Khao",37.785267,-122.40951,"San Francisco","California","Thai","$$",1
+"34","Michael Mina",37.79349,-122.399574,"San Francisco","California","Contemporary","$$$$",1
+"35","Sons & Daughters",37.79037,-122.40917,"San Francisco","California","Contemporary","$$$$",1
+"36","Mister Jiu's",37.79371,-122.406654,"San Francisco","California","Chinese","$$$",1
+"37","Nico",37.795803,-122.40333,"San Francisco","California","Contemporary","$$$",1
+"38","jū-ni",37.77672,-122.43886,"San Francisco","California","Japanese","$$$$",1
+"39","Keiko à Nob Hill",37.793106,-122.41445,"San Francisco","California","Fusion","$$$$",1
+"40","The Progress",37.78371,-122.43282,"San Francisco","California","Californian","$$$",1
+"41","State Bird Provisions",37.783737,-122.43283,"San Francisco","California","American","$$",1
+"42","Octavia",37.787857,-122.42709,"San Francisco","California","Californian","$$$",1
+"43","SPQR",37.78732,-122.43375,"San Francisco","California","Italian","$$$",1
+"44","Lord Stanley",37.79592,-122.42208,"San Francisco","California","Californian","$$$",1
+"45","Kinjo",37.79699,-122.422005,"San Francisco","California","Japanese","$$$$",1
+"46","Sorrel",37.788334,-122.44614,"San Francisco","California","Californian","$$$",1
+"47","Gary Danko",37.80599,-122.42066,"San Francisco","California","Contemporary","$$$$",1
+"48","Bar Crenn",37.798435,-122.43581,"San Francisco","California","French","$$$",1
+"49","Spruce",37.78772,-122.45264,"San Francisco","California","Californian","$$$",1
+"50","Wako",37.783035,-122.461525,"San Francisco","California","Japanese","$$$$",1
+"51","Madcap",37.974712,-122.56168,"San Francisco","California","Contemporary","$$$$",1
+"52","Aubergine",36.55406,-121.924355,"Monterey","California","Contemporary","$$$$",1
+"53","Kenzo",38.29924,-122.28928,"San Francisco","California","Japanese","$$$$",1
+"54","La Toque",38.30351,-122.28349,"San Francisco","California","Contemporary","$$$$",1
+"55","Bouchon",38.40258,-122.3619,"San Francisco","California","French","$$$",1
+"56","Auberge du Soleil",38.49199,-122.40534,"San Francisco","California","Californian","$$$$",1
+"57","Farmhouse Inn & Restaurant",38.49039,-122.8835,"San Francisco","California","Californian","$$$$",1
+"58","The Kitchen",38.58894,-121.41424,"Sacramento","California","Contemporary","$$$$",1
+"59","Madrona Manor",38.60428,-122.88647,"San Francisco","California","Contemporary","$$$$",1
+"60","Harbor House",39.135876,-123.719444,"San Francisco","California","Californian","$$$$",1
+"61","Shin Sushi",34.15784,-118.49415,"Los Angeles","California","Japanese","$$$",1
+"62","Rustic Canyon",34.024952,-118.49118,"Los Angeles","California","Californian","$$$",1
+"63","Dialogue",34.01679,-118.49748,"Los Angeles","California","Contemporary","$$$$",1
+"64","Kato",34.041683,-118.460915,"Los Angeles","California","Asian","$$$",1
+"65","CUT",34.067036,-118.401024,"Los Angeles","California","Steakhouse","$$$$",1
+"66","Nozawa Bar",34.0683,-118.39849,"Los Angeles","California","Japanese","$$$$",1
+"67","Shunji",34.028496,-118.45195,"Los Angeles","California","Japanese","$$$$",1
+"68","Maude",34.064346,-118.39904,"Los Angeles","California","Contemporary","$$$$",1
+"69","Mori Sushi",34.033398,-118.44229,"Los Angeles","California","Japanese","$$$$",1
+"70","Trois Mec",34.084255,-118.33851,"Los Angeles","California","Contemporary","$$$$",1
+"71","Osteria Mozza",34.08342,-118.338974,"Los Angeles","California","Italian","$$$",1
+"72","Kali",34.083443,-118.32455,"Los Angeles","California","Californian","$$$",1
+"73","Le Comptoir",34.06354,-118.30057,"Los Angeles","California","Californian","$$$$",1
+"74","Q Sushi",34.046883,-118.255844,"Los Angeles","California","Japanese","$$$$",1
+"75","Shibumi",34.044155,-118.256134,"Los Angeles","California","Japanese","$$$$",1
+"76","Hayato",34.03311,-118.24265,"Los Angeles","California","Japanese","$$$$",1
+"77","Bistro Na's",34.104412,-118.07159,"Los Angeles","California","Chinese","$$",1
+"78","Orsa & Winston",33.92145,-118.275406,"Los Angeles","California","Fusion","$$$$",1
+"79","Taco María",33.69475,-117.924965,"Costa Mesa","California","Mexican","$$$",1
+"80","Hana re",33.67759,-117.886566,"Costa Mesa","California","Japanese","$$$$",1
+"81","Addison",32.939903,-117.20013,"San Diego","California","Contemporary","$$$$",1
+"82","Parachute",41.94483,-87.70638,"Chicago","Chicago","Fusion","$$",1
+"83","Goosefoot",41.96856,-87.69596,"Chicago","Chicago","Contemporary","$$$$",1
+"84","Elizabeth",41.969555,-87.688736,"Chicago","Chicago","Contemporary","$$$$",1
+"85","EL Ideas",41.863,-87.68686,"Chicago","Chicago","Contemporary","$$$$",1
+"86","Band of Bohemia",41.967308,-87.67477,"Chicago","Chicago","Gastropub","$$$",1
+"87","Schwa",41.90888,-87.66792,"Chicago","Chicago","Contemporary","$$$$",1
+"88","Temporis",41.898907,-87.66725,"Chicago","Chicago","Contemporary","$$$$",1
+"89","Entente",41.93721,-87.6652,"Chicago","Chicago","Contemporary","$$$",1
+"90","Elske",41.884426,-87.66071,"Chicago","Chicago","Contemporary","$$$$",1
+"91","Dusek's (Board & Beer)",41.857853,-87.65757,"Chicago","Chicago","Gastropub","$$",1
+"92","Roister",41.886658,-87.65187,"Chicago","Chicago","Contemporary","$$$",1
+"93","Boka",41.91363,-87.64806,"Chicago","Chicago","Contemporary","$$$",1
+"94","Blackbird",41.88423,-87.64356,"Chicago","Chicago","Contemporary","$$$",1
+"95","Sepia",41.88394,-87.64247,"Chicago","Chicago","American","$$$",1
+"96","North Pond",41.9296,-87.63762,"Chicago","Chicago","Contemporary","$$$",1
+"97","Everest",41.87597,-87.63212,"Chicago","Chicago","French","$$$$",1
+"98","Topolobampo",41.89047,-87.63085,"Chicago","Chicago","Mexican","$$$$",1
+"99","Spiaggia",41.90062,-87.62457,"Chicago","Chicago","Italian","$$$$",1
+"100","Monte",45.08279,13.631168,"Rovinj","Croatia","Creative","$$$$$",1
+"101","Draga di Lovrana",45.275867,14.251401,"Lovran","Croatia","Modern cuisine","$$$$$",1
+"102","Noel",45.811054,15.988205,"Zagreb","Croatia","Modern cuisine","$$$$$",1
+"103","Pelegrini",43.73603,15.888903,"Šibenik","Croatia","Modern cuisine","$$$$$",1
+"104","360º",42.641563,18.111523,"Dubrovnik","Croatia","Modern cuisine","$$$$$",1
+"105","Field",50.0919,14.42193,"Praha","Czech Republic","Modern cuisine","$$$$$",1
+"106","La Degustation Bohême Bourgeoise",50.09115,14.42511,"Praha","Czech Republic","Modern cuisine","$$$$$",1
+"107","Gastromé",56.15788,10.20937,"Aarhus","Denmark","Modern cuisine","$$$",1
+"108","Domestic",56.15893,10.212132,"Aarhus","Denmark","Modern cuisine","$$$",1
+"109","Substans",56.15415,10.20372,"Aarhus","Denmark","Modern cuisine","$$$",1
+"110","Frederikshøj",56.12497,10.208638,"Aarhus","Denmark","Creative","$$$$",1
+"111","Me‚Mu",55.70901,9.53302,"Vejle","Denmark","Modern cuisine","$$$",1
+"112","Ti Trin Ned",55.56659,9.752689,"Fredericia","Denmark","Modern cuisine","$$$",1
+"113","Slotskøkkenet",55.771236,11.390805,"Hørve","Denmark","Creative","$$$$",1
+"114","Søllerød Kro",55.81325,12.49548,"København","Denmark","Modern cuisine","$$",1
+"115","Jordnær",55.748226,12.541014,"København","Denmark","Danish","$$$",1
+"116","Relæ",55.693233,12.543222,"København","Denmark","Modern cuisine","$$",1
+"117","Kiin Kiin",55.69188,12.55754,"København","Denmark","Thai","$$",1
+"118","formel B",55.67031,12.53798,"København","Denmark","Modern cuisine","$$",1
+"119","Kokkeriet",55.68768,12.58492,"København","Denmark","Modern cuisine","$$$",1
+"120","Clou",55.68342,12.58497,"København","Denmark","Modern cuisine","$$$$",1
+"121","Marchal",55.68034,12.58508,"København","Denmark","Modern cuisine","$$",1
+"122","Kong Hans Kælder",55.6787,12.584003,"København","Denmark","Classic French","$$$$",1
+"123","Stud!o at The Standard",55.67799,12.59191,"København","Denmark","Creative","$$$",1
+"124","108",55.67785,12.5980835,"København","Denmark","Modern cuisine","$$$",1
+"125","Era Ora",55.673004,12.591292,"København","Denmark","Italian","$$",1
+"126","Alouette",55.66265,12.57634,"København","Denmark","Modern cuisine","$$$",1
+"127","Frederiksminde",55.12417,12.04623,"Præstø","Denmark","Creative","$$$",1
+"128","Kadeau Bornholm",55.00457,14.969216,"Pedersker","Denmark","Creative","$$$$",1
+"129","Ask",60.17236,24.95648,"Helsingfors / Helsinki","Finland","Modern cuisine","$$$",1
+"130","Grön",60.16446,24.93308,"Helsingfors / Helsinki","Finland","Finnish","$$$",1
+"131","Demo",60.164806,24.941635,"Helsingfors / Helsinki","Finland","Modern cuisine","$$$",1
+"132","Olo",60.16616,24.947704,"Helsingfors / Helsinki","Finland","Modern cuisine","$$$",1
+"133","Palace",60.16556,24.95256,"Helsingfors / Helsinki","Finland","Modern cuisine","$$$",1
+"134","Ora",60.157578,24.942947,"Helsingfors / Helsinki","Finland","Modern cuisine","$$$",1
+"135","Botrini's",38.02318,23.79377,"Athína","Greece","Mediterranean","$$$$$",1
+"136","Varoulko Seaside",37.937378,23.658577,"Athína","Greece","Seafood","$$$$$",1
+"137","Hytra",37.95818,23.71895,"Athína","Greece","Modern cuisine","$$$$$",1
+"138","Loaf On",22.379858,114.27188,"Hong Kong","Hong Kong","Cantonese","$$",1
+"139","Lei Garden (Kwun Tong)",22.312672,114.22482,"Hong Kong","Hong Kong","Cantonese","$",1
+"140","Tim Ho Wan (Sham Shui Po)",22.32805,114.16665,"Hong Kong","Hong Kong","Dim Sum","$",1
+"141","Lei Garden (Mong Kok)",22.320219,114.17133,"Hong Kong","Hong Kong","Cantonese","$",1
+"142","Ming Court",22.318314,114.16933,"Hong Kong","Hong Kong","Cantonese","$$$",1
+"143","Yat Tung Heen (Jordan)",22.308014,114.17147,"Hong Kong","Hong Kong","Cantonese","$$",1
+"144","Fu Ho (Tsim Sha Tsui)",22.3022,114.17194,"Hong Kong","Hong Kong","Cantonese","$$",1
+"145","Shang Palace",22.297325,114.177155,"Hong Kong","Hong Kong","Cantonese","$$$",1
+"146","IM Teppanyaki & Wine",22.280807,114.19211,"Hong Kong","Hong Kong","Teppanyaki","$$",1
+"147","Ah Yat Harbour View (Tsim Sha Tsui)",22.296984,114.17197,"Hong Kong","Hong Kong","Cantonese","$$",1
+"148","Rech",22.293434,114.174034,"Hong Kong","Hong Kong","Seafood","$$$$",1
+"149","Spring Moon",22.294943,114.17182,"Hong Kong","Hong Kong","Cantonese","$$$",1
+"150","Imperial Treasure Fine Chinese Cuisine",22.296177,114.170006,"Hong Kong","Hong Kong","Cantonese","$$",1
+"151","Sushi Tokami",22.296112,114.16916,"Hong Kong","Hong Kong","Sushi","$$$$$",1
+"152","Tosca",22.30357,114.16007,"Hong Kong","Hong Kong","Italian","$$$",1
+"153","Épure",22.29583,114.169304,"","Hong Kong","French","$$$",1
+"154","Yee Tung Heen",22.282295,114.184135,"Hong Kong","Hong Kong","Cantonese","$$",1
+"155","Yè Shanghai (Tsim Sha Tsui)",22.295143,114.168236,"Hong Kong","Hong Kong","Shanghainese","$",1
+"156","Ho Hung Kee",22.280058,114.18364,"Hong Kong","Hong Kong","Noodles and congee","$",1
+"157","Jardin de Jade (Wan Chai)",22.28025,114.17716,"Hong Kong","Hong Kong","Shanghainese","$$",1
+"158","Zhejiang Heen",22.2787,114.17763,"Hong Kong","Hong Kong","Shanghainese","$$",1
+"159","Takumi by Daisuke Mori",22.276512,114.17718,"Hong Kong","Hong Kong","Innovative","$$$$$",1
+"160","Kam's Roast Goose",22.277693,114.175385,"Hong Kong","Hong Kong","Cantonese Roast Meats","$",1
+"161","Pang's Kitchen",22.26921,114.18452,"Hong Kong","Hong Kong","Cantonese","$",1
+"162","Xin Rong Ji",22.278013,114.17273,"Hong Kong","Hong Kong","Taizhou","$$$",1
+"163","Qi (Wan Chai)",22.276443,114.17126,"Hong Kong","Hong Kong","Sichuan","$",1
+"164","Man Wah",22.282213,114.15951,"Hong Kong","Hong Kong","Cantonese","$$$$",1
+"165","Summer Palace",22.277136,114.1643,"Hong Kong","Hong Kong","Cantonese","$$$",1
+"166","Octavium",22.282587,114.1572,"Hong Kong","Hong Kong","Italian","$$$",1
+"167","Arbor",22.283146,114.15542,"","Hong Kong","Innovative","$$$",1
+"168","VEA",22.284931,114.15313,"Hong Kong","Hong Kong","Innovative","$$$$$",1
+"169","Mandarin Grill + Bar",22.281048,114.1574,"Hong Kong","Hong Kong","European contemporary","$$$$",1
+"170","Yat Lok",22.28226,114.155655,"Hong Kong","Hong Kong","Cantonese Roast Meats","$",1
+"171","Guo Fu Lou",22.278313,114.16034,"Hong Kong","Hong Kong","Cantonese","$$$",1
+"172","Celebrity Cuisine",22.284334,114.15312,"Hong Kong","Hong Kong","Cantonese","$$",1
+"173","Sushi Wadatsumi",22.281038,114.15646,"Hong Kong","Hong Kong","Sushi","$$$",1
+"174","Arcane",22.280624,114.15682,"Hong Kong","Hong Kong","European contemporary","$$$",1
+"175","Duddell's",22.28008,114.157364,"Hong Kong","Hong Kong","Cantonese","$$$",1
+"176","Beefbar",22.27982,114.15752,"Hong Kong","Hong Kong","Steakhouse","$$",1
+"177","New Punjab Club",22.28005,114.15525,"Hong Kong","Hong Kong","Indian","$$",1
+"178","Kaiseki Den by Saotome",22.285713,114.147865,"Hong Kong","Hong Kong","Japanese","$$$$$",1
+"179","Belon",22.281662,114.152405,"Hong Kong","Hong Kong","French","$$$",1
+"180","Tate",22.280996,114.15276,"Hong Kong","Hong Kong","Innovative","$$$$$",1
+"181","The Ocean",22.235146,114.198524,"Hong Kong","Hong Kong","French","$$$$$",1
+"182","Costes Downtown",47.50113,19.048595,"Budapest","Hungary","Modern cuisine","$$$$",1
+"183","Borkonyha Winekitchen",47.49953,19.052391,"Budapest","Hungary","Modern cuisine","$$$$",1
+"184","Stand",47.500244,19.059624,"Budapest","Hungary","Modern cuisine","$$$",1
+"185","Babel",47.492603,19.05256,"Budapest","Hungary","Modern cuisine","$$$$$",1
+"186","Costes",47.48873,19.061779,"Budapest","Hungary","Modern cuisine","$$$$$",1
+"187","The Kitchen",22.191442,113.543,"Macau","Macau","Steakhouse","$$$",1
+"188","Tim's Kitchen",22.189898,113.5439,"Macau","Macau","Cantonese","$$",1
+"189","Wing Lei",22.188028,113.54578,"Macau","Macau","Cantonese","$$",1
+"190","King",22.190178,113.54028,"Macau","Macau","Cantonese","$",1
+"191","Ying",22.161234,113.555405,"Macau","Macau","Cantonese","$$",1
+"192","Shinji by Kanesaka",22.149635,113.56397,"Macau","Macau","Sushi","$$$$",1
+"193","The Golden Peacock",22.148178,113.56335,"Macau","Macau","Indian","$",1
+"194","Zi Yat Heen",22.145418,113.56152,"Macau","Macau","Cantonese","$$",1
+"195","8 1/2 Otto e Mezzo - Bombana",22.14918,113.55393,"Macau","Macau","Italian","$$$",1
+"196","Pearl Dragon",22.140524,113.56256,"Macau","Macau","Cantonese","$$$",1
+"197","Lai Heen",22.148754,113.551926,"Macau","Macau","Cantonese","$$",1
+"198","FAGN",63.43392,10.39628,"Trondheim","Norway","Modern cuisine","$$$$",1
+"199","Credo",63.43391,10.39631,"Trondheim","Norway","Creative","$$$$",1
+"200","RE-NAA",58.972088,5.732877,"Stavanger","Norway","Creative","$$$$",1
+"201","Sabi Omakase",58.969936,5.7433133,"Stavanger","Norway","Sushi","$$$$",1
+"202","Galt",59.91661,10.71369,"Oslo","Norway","Modern cuisine","$$$",1
+"203","Kontrast",59.92355,10.75106,"Oslo","Norway","Scandinavian","$$$",1
+"204","Statholdergaarden",59.90937,10.74305,"Oslo","Norway","Classic cuisine","$$$$",1
+"205","Del Posto",40.74327,-74.0077,"New York","New York City","Italian","$$$$",1
+"206","Le Grill de Joël Robuchon",40.742897,-74.0077,"New York","New York City","French","$$$$",1
+"207","L'Appart",40.711903,-74.01544,"New York","New York City","French","$$$$",1
+"208","Okuda",40.743793,-74.00633,"New York","New York City","Japanese","$$$$",1
+"209","Wallsé",40.73538,-74.00814,"New York","New York City","Austrian","$$$$",1
+"210","Jeju Noodle Bar",40.732952,-74.00744,"New York","New York City","Korean","$$",1
+"211","Sushi Nakazawa",40.731716,-74.00451,"New York","New York City","Japanese","$$$$",1
+"212","Kosaka",40.738316,-74.00137,"New York","New York City","Japanese","$$$$",1
+"213","Bâtard",40.719616,-74.00589,"New York","New York City","Contemporary","$$$$",1
+"214","Hirohisa",40.72452,-74.003006,"New York","New York City","Japanese","$$$",1
+"215","Blue Hill",40.7321,-73.9996,"New York","New York City","American","$$$$",1
+"216","ZZ's Clam Bar",40.727646,-74.00046,"New York","New York City","Seafood","$$$$",1
+"217","Babbo",40.73233,-73.99916,"New York","New York City","Italian","$$$$",1
+"218","Carbone",40.727966,-74.00017,"New York","New York City","Italian","$$$$",1
+"219","Le Coucou",40.719162,-74.00001,"New York","New York City","French","$$$",1
+"220","Aldea",40.73885,-73.99366,"New York","New York City","Mediterranean","$$$$",1
+"221","Cote",40.73778,-73.99375,"New York","New York City","Korean","$$$",1
+"222","Bouley at Home",40.74114,-73.99242,"New York","New York City","Contemporary","$$$",1
+"223","Gotham Bar and Grill",40.73417,-73.99379,"New York","New York City","American","$$$$",1
+"224","Nix",40.733166,-73.993515,"New York","New York City","Vegetarian","$$$",1
+"225","Junoon",40.74325,-73.99077,"New York","New York City","Indian","$$$$",1
+"226","NoMad",40.74497,-73.98883,"New York","New York City","Contemporary","$$$$",1
+"227","The Musket Room",40.723915,-73.99375,"New York","New York City","Contemporary","$$$",1
+"228","Uncle Boons",40.721203,-73.99441,"New York","New York City","Thai","$$",1
+"229","Noda",40.74497,-73.988075,"New York","New York City","Japanese","$$$$",1
+"230","Gramercy Tavern",40.73849,-73.98868,"New York","New York City","Contemporary","$$$$",1
+"231","The Clocktower",40.7414,-73.987595,"New York","New York City","Contemporary","$$$",1
+"232","Ai Fiori",40.75013,-73.98357,"New York","New York City","Italian","$$$$",1
+"233","Casa Mono",40.73595,-73.98706,"New York","New York City","Spanish","$$$",1
+"234","Jewel Bako",40.72713,-73.98928,"New York","New York City","Japanese","$$$",1
+"235","The River Café",40.703613,-73.994774,"New York","New York City","Contemporary","$$$$",1
+"236","Bar Uchū",40.72191,-73.99003,"New York","New York City","Japanese","$$$$",1
+"237","Café China",40.749973,-73.98228,"New York","New York City","Chinese","$$",1
+"238","Kanoyama",40.73071,-73.98655,"New York","New York City","Japanese","$$$",1
+"239","Contra",40.719917,-73.98922,"New York","New York City","Contemporary","$$$$",1
+"240","Atomix",40.744408,-73.98292,"New York","New York City","Korean","$$$$",1
+"241","Kyo Ya",40.7266,-73.98526,"New York","New York City","Japanese","$$$",1
+"242","Kajitsu",40.72776,-73.98428,"New York","New York City","Japanese","$$$",1
+"243","Agern",40.75234,-73.9775,"New York","New York City","Scandinavian","$$$$",1
+"244","Caviar Russe",40.760685,-73.97355,"New York","New York City","Contemporary","$$$$",1
+"245","Tuome",40.724194,-73.9828,"New York","New York City","Fusion","$$",1
+"246","Tempura Matsui",40.74839,-73.97474,"New York","New York City","Japanese","$$$$",1
+"247","Sushi Yasuda",40.75108,-73.97364,"New York","New York City","Japanese","$$$$",1
+"248","Sushi Amane",40.75133,-73.971725,"New York","New York City","Japanese","$$$$",1
+"249","Café Boulud",40.77439,-73.96414,"New York","New York City","French","$$$$",1
+"250","Claro",40.677395,-73.98615,"New York","New York City","Mexican","$$",1
+"251","Satsuki",40.801243,-73.95187,"New York","New York City","Japanese","$$$$",1
+"252","Sushi Noz",40.77384,-73.958275,"New York","New York City","Japanese","$$$$",1
+"253","Sushi Inoue",40.810448,-73.943726,"New York","New York City","Japanese","$$$$",1
+"254","Meadowsweet",40.710354,-73.96317,"New York","New York City","Mediterranean","$$$",1
+"255","Casa Enríque",40.743492,-73.95425,"New York","New York City","Mexican","$$",1
+"256","Peter Luger",40.70986,-73.96263,"New York","New York City","Steakhouse","$$$$",1
+"257","Oxomoco",40.730057,-73.95538,"New York","New York City","Mexican","$$$",1
+"258","The Finch",40.68704,-73.96297,"New York","New York City","American","$$$",1
+"259","Faro",40.707584,-73.923035,"New York","New York City","American","$$",1
+"260","Senses",52.244583,21.005886,"Warszawa","Poland","Modern cuisine","$$$$$",1
+"261","atelier Amaro",52.21708,21.03768,"Warszawa","Poland","Modern cuisine","$$$$",1
+"262","Aniar",53.27112,-9.057078,"Gaillimh/Galway","Ireland","Creative","N/A",1
+"263","Loam",53.27384,-9.044447,"Gaillimh/Galway","Ireland","Creative","N/A",1
+"264","Wild Honey Inn",53.03151,-9.2911,"Lios Dúin Bhearna/Lisdoonvarna","Ireland","Classic cuisine","N/A",1
+"265","Chestnut",51.562588,-9.460854,"Ballydehob","Ireland","Modern cuisine","N/A",1
+"266","Mews",51.48285,-9.37234,"Baltimore","Ireland","Modern cuisine","N/A",1
+"267","Ichigo Ichie",51.898167,-8.479933,"Corcaigh/Cork","Ireland","Japanese","N/A",1
+"268","Chapter One",53.354374,-6.263786,"City Centre","Ireland","Modern cuisine","N/A",1
+"269","Greenhouse",53.340042,-6.258506,"City Centre","Ireland","Modern cuisine","N/A",1
+"270","L'Ecrivain",53.33627,-6.24834,"City Centre","Ireland","Modern cuisine","N/A",1
+"271","Campagne",52.6559,-7.2464285,"Cill Chainnigh/Kilkenny","Ireland","Modern British","N/A",1
+"272","Heron & Grey",53.30143,-6.177574,"Blackrock","Ireland","Modern cuisine","N/A",1
+"273","Lady Helen",52.526096,-7.188277,"Baile Mhic Andáin/Thomastown","Ireland","Modern cuisine","N/A",1
+"274","House",51.94777,-7.7135396,"Aird Mhór/Ardmore","Ireland","Modern cuisine","N/A",1
+"275","Olympe",-22.96109,-43.20658,"Rio de Janeiro - 22470","Rio de Janeiro","French","$$$$$",1
+"276","Lasai",-22.95401,-43.19557,"Rio de Janeiro - 22271","Rio de Janeiro","modern","$$$$$",1
+"277","Oteque",-22.95747,-43.194424,"Rio de Janeiro - 22271","Rio de Janeiro","modern","$$$$$",1
+"278","Mee",-22.96764,-43.17925,"Rio de Janeiro - 22021","Rio de Janeiro","Asian influences","$$$$$",1
+"279","Cipriani",-22.96755,-43.17901,"Rio de Janeiro - 22021","Rio de Janeiro","Italian","$$$$$",1
+"280","Jun Sakamoto",-23.56318,-46.67737,"São Paulo - 05413","Sao Paulo","Japanese","$$$$$",1
+"281","Maní",-23.56621,-46.67974,"São Paulo - 05415","Sao Paulo","creative","$$$$$",1
+"282","Evvai",-23.567078,-46.679146,"São Paulo - 05415","Sao Paulo","modern","$$$$$",1
+"283","Picchi",-23.565063,-46.666767,"São Paulo - 01426","Sao Paulo","Italian","$$$$$",1
+"284","Kosushi",-23.58522,-46.6809,"São Paulo - 04538","Sao Paulo","Japanese","$$$",1
+"285","Ryo Gastronomia",-23.58132,-46.6767,"São Paulo - 04531","Sao Paulo","Japanese","$$$$$",1
+"286","Tangará Jean-Georges",-23.634005,-46.72428,"São Paulo - 05706","Sao Paulo","modern","$$$$$",1
+"287","Kinoshita",-23.59159,-46.67146,"São Paulo - 04509","Sao Paulo","Japanese","$$$$$",1
+"288","Kan Suke",-23.5684,-46.64936,"São Paulo - 01401","Sao Paulo","Japanese","$$$$$",1
+"289","Huto",-23.60882,-46.6598,"São Paulo - 04080","Sao Paulo","Japanese","$$$$$",1
+"290","Stay",37.513004,127.10257,"Seoul","South Korea","French contemporary","$$$",1
+"291","Lee Jong Kuk 104",37.592903,126.997284,"Seoul","South Korea","Korean","$$$$",1
+"292","Hansikgonggan",37.577705,126.98852,"Seoul","South Korea","Korean","$$$",1
+"293","Dining in Space",37.57761,126.98845,"Seoul","South Korea","French contemporary","$$$",1
+"294","Exquisine",37.521046,127.049736,"Seoul","South Korea","Innovative","$$$",1
+"295","Dosa",37.52445,127.04441,"Seoul","South Korea","Innovative","$$$",1
+"296","Joo Ok",37.52252,127.04396,"Seoul","South Korea","Korean contemporary","$$$",1
+"297","Balwoo Gongyang",37.57389,126.98318,"Seoul","South Korea","Temple cuisine","$$",1
+"298","Muoki",37.518963,127.04217,"Seoul","South Korea","Innovative","$$$",1
+"299","L'Amitié",37.522675,127.032646,"Seoul","South Korea","French","$$$",1
+"300","Yu Yuan",37.57045,126.97534,"Seoul","South Korea","Chinese","$$$",1
+"301","Bicena",37.5384,127.00135,"Seoul","South Korea","Korean","$$$",1
+"302","Mosu",37.536415,126.99934,"Seoul","South Korea","Innovative","$$$$$",1
+"303","Poom",37.54903,126.98341,"Seoul","South Korea","Korean","$$$",1
+"304","Soigné",37.49816,127.002,"Seoul","South Korea","Innovative","$$$",1
+"305","Table for Four",37.49769,126.99442,"Seoul","South Korea","European contemporary","$$$",1
+"306","Zero Complex",37.49417,126.9948,"Seoul","South Korea","Innovative","$$$",1
+"307","Jin Jin",37.55777,126.91324,"Seoul","South Korea","Chinese","$",1
+"308","Gotgan",37.52212,126.92022,"Seoul","South Korea","Korean","$$$$",1
+"309","Hill Street Tai Hwa Pork Noodle",1.3052,103.8624,"Singapore","Singapore","Street Food","$",1
+"310","Putien (Kitchener Road)",1.30969,103.8573,"Singapore","Singapore","Fujian","$",1
+"311","Chef Kang's",1.304735,103.84955,"Singapore","Singapore","Cantonese","$$$",1
+"312","Garibaldi",1.296564,103.855,"Singapore","Singapore","Italian","$",1
+"313","Summer Pavilion",1.291284,103.8603,"Singapore","Singapore","Cantonese","$$",1
+"314","Shinji (Bras Basah Road)",1.2959028,103.8539,"Singapore","Singapore","Sushi","$$",1
+"315","The Song of India",1.310767,103.8353,"Singapore","Singapore","Indian","$",1
+"316","Lei Garden",1.295228,103.8521,"Singapore","Singapore","Cantonese","$",1
+"317","Whitegrass",1.295452,103.8516,"Singapore","Singapore","Australian","$$",1
+"318","Jaan",1.293184,103.8529,"Singapore","Singapore","French contemporary","$$$",1
+"319","Labyrinth",1.2899688,103.8562,"Singapore","Singapore","Innovative","$$",1
+"320","Cut",1.2853268,103.8607,"Singapore","Singapore","Steakhouse","$$$",1
+"321","Alma",1.309123,103.834,"Singapore","Singapore","European contemporary","$",1
+"322","Béni",1.302379,103.8366,"Singapore","Singapore","French contemporary","$$",1
+"323","Crystal Jade Golden Palace",1.303244,103.8353,"Singapore","Singapore","Chinese","$",1
+"324","Imperial Treasure Fine Teochew Cuisine (Orchard)",1.3032448,103.8349,"Singapore","Singapore","Chinese","$",1
+"325","Saint Pierre",1.285781,103.8538,"Singapore","Singapore","French contemporary","$$",1
+"326","Sushi Ichi",1.305105,103.8324,"Singapore","Singapore","Sushi","$$$",1
+"327","Sushi Kimura",1.3063719,103.829475,"Singapore","Singapore","Sushi","$$$$",1
+"328","Iggy's",1.305986,103.8294,"Singapore","Singapore","European contemporary","$$$",1
+"329","Braci",1.287212,103.84949,"Singapore","Singapore","Italian contemporary","$$",1
+"330","Jiang-Nan Chun",1.304937,103.8288,"Singapore","Singapore","Cantonese","$$$",1
+"331","Bacchanalia",1.2874758,103.8474,"Singapore","Singapore","Innovative","$$",1
+"332","Shinji (Tanglin Road)",1.305821,103.8257,"Singapore","Singapore","Sushi","$$$$",1
+"333","Corner House",1.315121,103.8154,"Singapore","Singapore","Innovative","$$",1
+"334","Summer Palace",1.3043848,103.825,"Singapore","Singapore","Cantonese","$",1
+"335","Cheek by Jowl",1.281301,103.84849,"Singapore","Singapore","Australian","$",1
+"336","Nouri",1.28086,103.84713,"Singapore","Singapore","Innovative","$",1
+"337","Liao Fan Hong Kong Soya Sauce Chicken Rice & Noodle",1.28248,103.8439,"Singapore","Singapore","Street Food","$",1
+"338","Burnt Ends",1.280501,103.8418,"Singapore","Singapore","Barbecue","$$",1
+"339","Rhubarb",1.279368,103.843,"Singapore","Singapore","French contemporary","$",1
+"340","Meta",1.279372,103.8415,"Singapore","Singapore","Innovative","$$",1
+"341","Ma Cuisine",1.27826,103.842,"Singapore","Singapore","French","$",1
+"342","Candlenut",1.2797709,103.8402,"Singapore","Singapore","Peranakan","$",1
+"343","Bhoga",57.70618,11.9624,"Göteborg","Sweden","Creative","$$$",1
+"344","Koka",57.698406,11.965365,"Göteborg","Sweden","Modern cuisine","$$$",1
+"345","28+",57.69809,11.97377,"Göteborg","Sweden","Modern cuisine","$$$",1
+"346","SK Mat & Människor",57.69688,11.98338,"Göteborg","Sweden","Modern cuisine","$$$",1
+"347","Thörnströms Kök",57.69437,11.977609,"Göteborg","Sweden","Classic cuisine","$$$",1
+"348","Upper House",57.69745,11.99021,"Göteborg","Sweden","Creative","$$$$",1
+"349","Agrikultur",59.34777,18.05863,"Stockholm","Sweden","Modern cuisine","$$$$",1
+"350","Sushi Sho",59.341286,18.049892,"Stockholm","Sweden","Japanese","$$$",1
+"351","Volt",59.33867,18.079683,"Stockholm","Sweden","Creative","$$$",1
+"352","Ekstedt",59.33674,18.07521,"Stockholm","Sweden","Meats and grills","$$$",1
+"353","Operakällaren",59.329876,18.071363,"Stockholm","Sweden","Classic cuisine","$$$$",1
+"354","Mathias Dahlgren-Matbaren",59.32935,18.07543,"Stockholm","Sweden","Modern cuisine","$$",1
+"355","Aloë",59.2842,17.985748,"Stockholm","Sweden","Creative","$$$$",1
+"356","PM & Vänner",56.87892,14.80387,"Växjö","Sweden","Creative","$$$",1
+"357","Bloom in the Park",55.59064,12.99794,"Malmö","Sweden","Creative","$$",1
+"358","SAV",55.53376,13.00537,"Malmö","Sweden","Creative","$$$",1
+"359","Golden Formosa",25.118216,121.53623,"Taipei","Taipei","Taiwanese","$$",1
+"360","Danny's Steakhouse",25.082657,121.552765,"Taipei","Taipei","Steakhouse","$$",1
+"361","L'Atelier de Joël Robuchon",25.039188,121.56771,"Taipei","Taipei","French contemporary","$$$",1
+"362","Kitcho",25.04429,121.55076,"Taipei","Taipei","Sushi","$$$$",1
+"363","Tien Hsiang Lo",25.062696,121.529976,"Taipei","Taipei","Hang Zhou","$$",1
+"364","Ya Ge",25.06625,121.52533,"Taipei","Taipei","Cantonese","$$",1
+"365","Da-Wan",25.043018,121.55019,"Taipei","Taipei","Barbecue","$$$",1
+"366","Sushi Nomura",25.03618,121.55465,"Taipei","Taipei","Sushi","$$$",1
+"367","logy",25.03561,121.55323,"Taipei","Taipei","Asian contemporary","$$$$",1
+"368","Ming Fu",25.06171,121.52399,"Taipei","Taipei","Taiwanese","$$$",1
+"369","Ken An Ho",25.034622,121.55281,"Taipei","Taipei","Japanese","$$$$",1
+"370","Sushi Ryu",25.055832,121.52724,"Taipei","Taipei","Sushi","$$$$",1
+"371","MUME",25.036266,121.54809,"Taipei","Taipei","European contemporary","$$$",1
+"372","Impromptu by Paul Lee",25.05429,121.524254,"Taipei","Taipei","Innovative","$$$",1
+"373","Longtail",25.023922,121.54841,"Taipei","Taipei","Innovative","$$",1
+"374","Mountain and Sea House",25.038046,121.531395,"Taipei","Taipei","Taiwanese","$$",1
+"375","Da San Yuan",25.042248,121.512215,"Taipei","Taipei","Cantonese","$",1
+"376","Tainan Tan Tsu Mien Seafood",25.03799,121.4984,"Taipei","Taipei","Seafood","$$",1
+"377","Suan Thip",13.926962,100.502144,"Bangkok","Thailand","Thai","$",1
+"378","Upstairs at Mikkeller",13.727946,100.58844,"Bangkok","Thailand","Innovative","$$$$$",1
+"379","Chim by Siam Wisdom",13.740706,100.56789,"Bangkok","Thailand","Thai","$$$",1
+"380","R-Haan",13.731805,100.57972,"Bangkok","Thailand","Thai","$$$$",1
+"381","Canvas",13.728886,100.580826,"Bangkok","Thailand","Innovative","$$$$",1
+"382","Bo.lan",13.726389,100.57799,"Bangkok","Thailand","Thai","$$$$$",1
+"383","Sra Bua by Kiin Kiin",13.754137,100.53451,"Bangkok","Thailand","Thai Contemporary","$$$",1
+"384","Elements",13.742978,100.54798,"Bangkok","Thailand","French contemporary","$$$$",1
+"385","Paste",13.744594,100.540565,"Bangkok","Thailand","Thai","$$$",1
+"386","Ginza Sushi ichi",13.744069,100.54092,"Bangkok","Thailand","Sushi","$$$$",1
+"387","Sorn",13.723242,100.56848,"Bangkok","Thailand","Southern Thai","$$$$$",1
+"388","Savelberg",13.738216,100.54642,"Bangkok","Thailand","French contemporary","$$$",1
+"389","Saneh Jaan",13.735739,100.54605,"Bangkok","Thailand","Thai","$$",1
+"390","Gaa",13.737806,100.54275,"Bangkok","Thailand","Innovative","$$$$",1
+"391","Methavalai Sorndaeng",13.756321,100.502045,"Bangkok","Thailand","Thai","$$",1
+"392","Jay Fai",13.752614,100.50466,"Bangkok","Thailand","Street Food","$$",1
+"393","Nahm",13.724357,100.53926,"Bangkok","Thailand","Thai","$$$",1
+"394","J'AIME by Jean-Michel Lorain",13.718885,100.546326,"Bangkok","Thailand","French contemporary","$$$",1
+"395","Saawaan",13.721809,100.53741,"Bangkok","Thailand","Thai Contemporary","$$$$",1
+"396","Le Du",13.725005,100.52939,"Bangkok","Thailand","Thai","$$$$",1
+"397","Ruean Panya",13.558403,100.28264,"Bangkok","Thailand","Thai","$$",1
+"398","PRU",8.034298,98.2764,"Phuket","Thailand","Innovative","$$$$$",1
+"399","Blue Duck Tavern",38.905373,-77.05128,"Washington, D.C.","Washington DC","American","$$$",1
+"400","Tail Up Goat",38.9235,-77.043274,"Washington, D.C.","Washington DC","Contemporary","$$",1
+"401","Komi",38.910107,-77.03836,"Washington, D.C.","Washington DC","Mediterranean","$$$$",1
+"402","Sushi Taro",38.909992,-77.03834,"Washington, D.C.","Washington DC","Japanese","$$$$",1
+"403","Plume",38.906,-77.03671,"Washington, D.C.","Washington DC","European","$$$$",1
+"404","Siren by RW",38.907776,-77.035446,"Washington, D.C.","Washington DC","Seafood","$$$",1
+"405","Bresca",38.91584,-77.0321,"Washington, D.C.","Washington DC","Contemporary","$$",1
+"406","The Dabney",38.906292,-77.024666,"Washington, D.C.","Washington DC","American","$$",1
+"407","Métier",38.903503,-77.0218,"Washington, D.C.","Washington DC","Contemporary","$$$$",1
+"408","Kinship",38.903282,-77.0218,"Washington, D.C.","Washington DC","Contemporary","$$$",1
+"409","Fiola",38.89416,-77.02032,"Washington, D.C.","Washington DC","Italian","$$$$",1
+"410","Masseria",38.909504,-76.99908,"Washington, D.C.","Washington DC","Italian","$$$",1
+"411","Rose's Luxury",38.88064,-76.99515,"Washington, D.C.","Washington DC","Contemporary","$$",1
+"412","Loch Bay",57.51487,-6.57114,"Waternish","United Kingdom","Modern cuisine","N/A",1
+"413","Braidwoods",55.69474,-4.7425,"Dalry","United Kingdom","Classic cuisine","N/A",1
+"414","Eipic",54.595898,-5.9322424,"Belfast","United Kingdom","Modern cuisine","N/A",1
+"415","OX",54.59891,-5.92198,"Belfast","United Kingdom","Modern British","N/A",1
+"416","The Peat Inn",56.27861,-2.8845797,"Peat Inn","United Kingdom","Classic cuisine","N/A",1
+"417","Kitchin",55.976967,-3.172842,"Leith","United Kingdom","Modern cuisine","N/A",1
+"418","Martin Wishart",55.97552,-3.17019,"Leith","United Kingdom","Modern cuisine","N/A",1
+"419","Number One",55.95298,-3.18966,"Edinburgh","United Kingdom","Modern cuisine","N/A",1
+"420","21212",55.95674,-3.18018,"Edinburgh","United Kingdom","Creative","N/A",1
+"421","The Cellar",56.222126,-2.696321,"Anstruther","United Kingdom","Modern cuisine","N/A",1
+"422","Forest Side",54.46396,-3.0157998,"Grasmere","United Kingdom","Modern British","N/A",1
+"423","HRiSHi",54.35013,-2.91172,"Bowness-on-Windermere","United Kingdom","Modern cuisine","N/A",1
+"424","Rogan & Co",54.20074,-2.95464,"Cartmel","United Kingdom","Creative British","N/A",1
+"425","House of Tides",54.96758,-1.61127,"Newcastle upon Tyne","United Kingdom","Modern cuisine","N/A",1
+"426","Sosban & The Old Butchers",53.225925,-4.163006,"Menai Bridge/Porthaethwy","United Kingdom","Modern cuisine","N/A",1
+"427","Northcote",53.80933,-2.4476,"Langho","United Kingdom","Modern British","N/A",1
+"428","Yorke Arms",54.13435,-1.8183095,"Pateley Bridge","United Kingdom","Modern cuisine","N/A",1
+"429","Fraiche",53.38183,-3.04307,"Birkenhead","United Kingdom","Creative","N/A",1
+"430","White Swan",53.83916,-2.25097,"Fence","United Kingdom","Modern British","N/A",1
+"431","Tyddyn Llan",52.92405,-3.44329,"Llandrillo","United Kingdom","Classic cuisine","N/A",1
+"432","Ynyshir",52.54476,-3.94491,"Machynlleth","United Kingdom","Creative","N/A",1
+"433","Black Swan",54.21205,-1.1879199,"Oldstead","United Kingdom","Modern British","N/A",1
+"434","Simon Radley at Chester Grosvenor",53.19064,-2.88913,"Chester","United Kingdom","Modern cuisine","N/A",1
+"435","Star Inn at Harome",54.23101,-1.01023,"Harome","United Kingdom","Modern British","N/A",1
+"436","The Man Behind The Curtain",53.798286,-1.539937,"Leeds","United Kingdom","Creative","N/A",1
+"437","The Checkers",52.55568,-3.13769,"Montgomery/Trefaldwyn","United Kingdom","French","N/A",1
+"438","Pipe and Glass",53.8955,-0.53301,"South Dalton","United Kingdom","Modern British","N/A",1
+"439","Fischer's at Baslow Hall",53.25055,-1.6269798,"Baslow","United Kingdom","Modern cuisine","N/A",1
+"440","Winteringham Fields",53.68778,-0.59013,"Winteringham","United Kingdom","Modern cuisine","N/A",1
+"441","Thomas Carr @ The Olive Room",51.209476,-4.118807,"Ilfracombe","United Kingdom","Seafood","N/A",1
+"442","Walnut Tree",51.84534,-2.95438,"Llanddewi Skirrid","United Kingdom","Modern British","N/A",1
+"443","Paul Ainsworth at No.6",50.541534,-4.9398518,"Padstow","United Kingdom","Modern cuisine","N/A",1
+"444","Simpsons",52.46925,-1.9238801,"Birmingham","United Kingdom","Modern cuisine","N/A",1
+"445","Purnell's",52.48268,-1.9018,"Birmingham","United Kingdom","Modern cuisine","N/A",1
+"446","Adam's",52.47964,-1.900286,"Birmingham","United Kingdom","Modern cuisine","N/A",1
+"447","Outlaw's Fish Kitchen",50.59206,-4.832,"Port Isaac","United Kingdom","Seafood","N/A",1
+"448","Carters of Moseley",52.44588,-1.88384,"Birmingham","United Kingdom","Modern British","N/A",1
+"449","Peel's",52.4259,-1.70536,"Hampton in Arden","United Kingdom","Creative British","N/A",1
+"450","John's House",52.73295,-1.145851,"Mountsorrel","United Kingdom","Modern cuisine","N/A",1
+"451","The Whitebrook",51.759697,-2.686909,"Whitebrook","United Kingdom","Modern British","N/A",1
+"452","James Sommerin",51.434387,-3.167951,"Penarth","United Kingdom","Modern cuisine","N/A",1
+"453","Driftwood",50.1889,-4.97088,"Portscatho","United Kingdom","Modern cuisine","N/A",1
+"454","The Cross at Kenilworth",52.350315,-1.5801147,"Kenilworth","United Kingdom","Classic cuisine","N/A",1
+"455","Masons Arms",50.99547,-3.67163,"Knowstone","United Kingdom","Classic French","N/A",1
+"456","Salt",52.18963,-1.7092043,"Stratford-upon-Avon","United Kingdom","Modern British","N/A",1
+"457","Le Champignon Sauvage",51.89146,-2.07912,"Cheltenham","United Kingdom","Modern cuisine","N/A",1
+"458","Gidleigh Park",50.67658,-3.87354,"Chagford","United Kingdom","Modern cuisine","N/A",1
+"459","Hambleton Hall",52.65737,-0.66812,"Upper Hambleton","United Kingdom","Classic cuisine","N/A",1
+"460","wilks",51.46737,-2.6069899,"Bristol","United Kingdom","Modern British","N/A",1
+"461","Bulrush",51.46278,-2.597758,"Bristol","United Kingdom","Modern British","N/A",1
+"462","Casamia",51.447254,-2.5940728,"Bristol","United Kingdom","Creative","N/A",1
+"463","Paco Tapas",51.44647,-2.59358,"Bristol","United Kingdom","Spanish","N/A",1
+"464","Pony & Trap",51.34938,-2.5925994,"Chew Magna","United Kingdom","Modern British","N/A",1
+"465","The Dining Room",51.58376,-2.14954,"Malmesbury","United Kingdom","Asian influences","N/A",1
+"466","Bybrook",51.49382,-2.23212,"Castle Combe","United Kingdom","Modern British","N/A",1
+"467","Restaurant Hywel Jones by Lucknam Park",51.45502,-2.25941,"Colerne","United Kingdom","Modern British","N/A",1
+"468","Olive Tree",51.38707,-2.3627,"Bath","United Kingdom","Modern cuisine","N/A",1
+"469","Lympstone Manor",50.64069,-3.4186063,"Lympstone","United Kingdom","Modern cuisine","N/A",1
+"470","The Neptune",52.9511,0.50927,"Hunstanton","United Kingdom","Modern cuisine","N/A",1
+"471","Elephant",50.45853,-3.52438,"Torquay","United Kingdom","Modern British","N/A",1
+"472","Oxford Kitchen",51.776733,-1.264794,"Oxford","United Kingdom","Modern British","N/A",1
+"473","Nut Tree",51.83618,-1.1499,"Murcott","United Kingdom","Traditional British","N/A",1
+"474","Morston Hall",52.95473,0.98729,"Morston","United Kingdom","Modern British","N/A",1
+"475","Red Lion Freehouse",51.2736,-1.8007996,"East Chisenbury","United Kingdom","Classic cuisine","N/A",1
+"476","Blackbird",51.420887,-1.3493549,"Newbury","United Kingdom","Classic cuisine","N/A",1
+"477","Woodspeen",51.415802,-1.353532,"Newbury","United Kingdom","Modern cuisine","N/A",1
+"478","The Coach",51.571712,-0.7772678,"Marlow","United Kingdom","Modern British","N/A",1
+"479","Crown",51.524807,-0.7915291,"Burchett's Green","United Kingdom","Regional cuisine","N/A",1
+"480","L'Ortolan",51.40833,-0.9542898,"Shinfield","United Kingdom","French","N/A",1
+"481","Hinds Head",51.51265,-0.69641,"Bray","United Kingdom","Traditional British","N/A",1
+"482","Black Rat",51.05796,-1.3069497,"Winchester","United Kingdom","Modern cuisine","N/A",1
+"483","Matt Worswick at The Latymer",51.35764,-0.7086128,"Bagshot","United Kingdom","Modern cuisine","N/A",1
+"484","Coworth Park",51.40463,-0.616715,"Ascot","United Kingdom","Modern cuisine","N/A",1
+"485","Tudor Room",51.41759,-0.545847,"Egham","United Kingdom","Modern cuisine","N/A",1
+"486","The Glasshouse",51.4771,-0.28574,"Kew","United Kingdom","Modern cuisine","N/A",1
+"487","La Trompette",51.49222,-0.25619,"Chiswick","United Kingdom","Modern British","N/A",1
+"488","Tim Allen's Flitch of Bacon",51.86747,0.404134,"Little Dunmow","United Kingdom","Modern British","N/A",1
+"489","River Café",51.48395,-0.22423,"Hammersmith","United Kingdom","Italian","N/A",1
+"490","Kitchen W8",51.49918,-0.19692,"Kensington","United Kingdom","Modern cuisine","N/A",1
+"491","Trishna",51.51834,-0.153031,"Marylebone","United Kingdom","Indian","N/A",1
+"492","Roganic",51.518314,-0.1520875,"Marylebone","United Kingdom","Creative British","N/A",1
+"493","Locanda Locatelli",51.51514,-0.15675,"Marylebone","United Kingdom","Italian","N/A",1
+"494","Texture",51.51488,-0.15664,"Marylebone","United Kingdom","Creative","N/A",1
+"495","Portland",51.519726,-0.142555,"Regent's Park","United Kingdom","Modern cuisine","N/A",1
+"496","Harwood Arms",51.48291,-0.19651,"Fulham","United Kingdom","Modern British","N/A",1
+"497","Pied à Terre",51.519,-0.13511,"Bloomsbury","United Kingdom","Creative","N/A",1
+"498","The Ninth",51.51875,-0.1350068,"Bloomsbury","United Kingdom","Mediterranean cuisine","N/A",1
+"499","Kai",51.50871,-0.15162,"Mayfair","United Kingdom","Chinese","N/A",1
+"500","Pollen Street Social",51.5133,-0.14234,"Mayfair","United Kingdom","Creative","N/A",1
+"501","Hakkasan Mayfair",51.51037,-0.14475,"Mayfair","United Kingdom","Chinese","N/A",1
+"502","The Square",51.51069,-0.14401,"Mayfair","United Kingdom","Creative French","N/A",1
+"503","Alyn Williams at The Westbury",51.51118,-0.14303,"Mayfair","United Kingdom","Modern cuisine","N/A",1
+"504","Benares",51.50973,-0.14494,"Mayfair","United Kingdom","Indian","N/A",1
+"505","Hakkasan Hanway Place",51.5171,-0.13144,"Bloomsbury","United Kingdom","Chinese","N/A",1
+"506","Social Eating House",51.51383,-0.13673,"Soho","United Kingdom","Modern cuisine","N/A",1
+"507","Galvin at Windows",51.50539,-0.15039,"Mayfair","United Kingdom","Modern cuisine","N/A",1
+"508","Murano",51.50707,-0.14722,"Mayfair","United Kingdom","Italian","N/A",1
+"509","Marcus",51.50171,-0.15614,"Belgravia","United Kingdom","Modern cuisine","N/A",1
+"510","Sabor",51.511368,-0.1396773,"Mayfair","United Kingdom","Spanish","N/A",1
+"511","Clock House",51.30044,-0.49287,"Ripley","United Kingdom","Modern cuisine","N/A",1
+"512","Yauatcha Soho",51.51367,-0.1352,"Soho","United Kingdom","Chinese","N/A",1
+"513","Céleste",51.502422,-0.1522617,"Belgravia","United Kingdom","Creative French","N/A",1
+"514","Gymkhana",51.50854,-0.14154,"Mayfair","United Kingdom","Indian","N/A",1
+"515","Amaya",51.49912,-0.15731,"Belgravia","United Kingdom","Indian","N/A",1
+"516","Pétrus",51.49951,-0.15662,"Belgravia","United Kingdom","French","N/A",1
+"517","Veeraswamy",51.51008,-0.13809,"Mayfair","United Kingdom","Indian","N/A",1
+"518","Barrafina",51.51375,-0.1318,"Soho","United Kingdom","Spanish","N/A",1
+"519","Hide",51.506077,-0.144289,"Mayfair","United Kingdom","Modern British","N/A",1
+"520","Ritz Restaurant",51.50728,-0.14141,"Westminster","United Kingdom","Modern British","N/A",1
+"521","Elystan Street",51.49124,-0.16724,"Chelsea","United Kingdom","Modern British","N/A",1
+"522","Seven Park Place",51.50623,-0.13998,"Saint James's","United Kingdom","Modern cuisine","N/A",1
+"523","Ikoyi",51.509212,-0.1334389,"Saint James's","United Kingdom","Creative","N/A",1
+"524","Aquavit",51.508713,-0.1334072,"Saint James's","United Kingdom","Scandinavian","N/A",1
+"525","Five Fields",51.49168,-0.16124,"Chelsea","United Kingdom","Modern cuisine","N/A",1
+"526","Dining Room at The Goring",51.49763,-0.14556,"Victoria","United Kingdom","Traditional British","N/A",1
+"527","St John",51.52064,-0.10133,"Clerkenwell","United Kingdom","Traditional British","N/A",1
+"528","Quilon",51.49863,-0.13726,"Victoria","United Kingdom","Indian","N/A",1
+"529","Club Gascon",51.51857,-0.10031,"London","United Kingdom","French","N/A",1
+"530","A. Wong",51.49318,-0.14128,"Victoria","United Kingdom","Chinese","N/A",1
+"531","The Clove Club",51.52711,-0.07927,"Shoreditch","United Kingdom","Modern cuisine","N/A",1
+"532","Leroy",51.524086,-0.0815337,"Shoreditch","United Kingdom","Modern British","N/A",1
+"533","Angler",51.51894,-0.08625,"Finsbury","United Kingdom","Seafood","N/A",1
+"534","Brat",51.52427,-0.0767681,"Shoreditch","United Kingdom","Traditional British","N/A",1
+"535","Lyle's",51.52378,-0.07704,"Shoreditch","United Kingdom","Modern British","N/A",1
+"536","Galvin La Chapelle",51.52032,-0.0781,"Spitalfields","United Kingdom","French","N/A",1
+"537","City Social",51.51521,-0.08431,"City of London","United Kingdom","Modern cuisine","N/A",1
+"538","La Dame de Pic",51.510372,-0.0788981,"City of London","United Kingdom","Modern French","N/A",1
+"539","Story",51.50268,-0.07774,"Bermondsey","United Kingdom","Modern cuisine","N/A",1
+"540","Trinity",51.46336,-0.14148,"Clapham Common","United Kingdom","Modern cuisine","N/A",1
+"541","Chez Bruce",51.44607,-0.16553,"Wandsworth","United Kingdom","French","N/A",1
+"542","Sorrel",51.228825,-0.3346741,"Dorking","United Kingdom","Modern British","N/A",1
+"543","Restaurant Tristan",51.062347,-0.326034,"Horsham","United Kingdom","Modern British","N/A",1
+"544","Gravetye Manor",51.08932,-0.05691,"Gravetye","United Kingdom","Modern British","N/A",1
+"545","The Sportsman",51.34392,0.95885,"Seasalter","United Kingdom","Modern British","N/A",1
+"546","West House",51.11521,0.64215,"Biddenden","United Kingdom","Modern British","N/A",1
+"547","Fordwich Arms",51.295284,1.1261871,"Fordwich","United Kingdom","Modern cuisine","N/A",1
+"548","Samphire",49.18488,-2.1057,"Saint Helier/Saint-Hélier","United Kingdom","Modern cuisine","N/A",1
+"549","Bohemia",49.181225,-2.102417,"Saint Helier/Saint-Hélier","United Kingdom","Modern cuisine","N/A",1
+"550","SENNS.Restaurant",47.83636,13.06389,"Salzburg","Austria","Creative","$$$$$",2
+"551","Ikarus",47.79536,13.00695,"Salzburg","Austria","Creative","$$$$$",2
+"552","Mraz & Sohn",48.23129,16.37637,"Wien","Austria","Creative","$$$$$",2
+"553","Konstantin Filippou",48.21056,16.37996,"Wien","Austria","Modern cuisine","$$$$$",2
+"554","Silvio Nickol Gourmet Restaurant",48.20558,16.37693,"Wien","Austria","Modern cuisine","$$$$$",2
+"555","Steirereck im Stadtpark",48.20229,16.3805,"Wien","Austria","Creative","$$$$$",2
+"556","Baumé",37.4285,-122.14272,"South San Francisco","California","Contemporary","$$$$",2
+"557","Commis",37.82476,-122.25505,"San Francisco","California","Contemporary","$$$$",2
+"558","Californios",37.75555,-122.417145,"San Francisco","California","Mexican","$$$$",2
+"559","Lazy Bear",37.760204,-122.41969,"San Francisco","California","Contemporary","$$$$",2
+"560","Saison",37.76327,-122.41543,"San Francisco","California","Californian","$$$$",2
+"561","Campton Place",37.78923,-122.40665,"San Francisco","California","Indian","$$$$",2
+"562","Coi",37.79812,-122.40331,"San Francisco","California","Contemporary","$$$$",2
+"563","Acquerello",37.79167,-122.42131,"San Francisco","California","Italian","$$$$",2
+"564","Urasawa",34.067352,-118.40067,"Los Angeles","California","Japanese","$$$$",2
+"565","Sushi Ginza Onodera",34.08238,-118.37654,"Los Angeles","California","Japanese","$$$$",2
+"566","Somni",34.070095,-118.37649,"Los Angeles","California","Contemporary","$$$$",2
+"567","Providence",34.083523,-118.33019,"Los Angeles","California","Seafood","$$$$",2
+"568","n/naka",34.02526,-118.41206,"Los Angeles","California","Contemporary","$$$$",2
+"569","Vespertine",34.024204,-118.38166,"Los Angeles","California","Contemporary","$$$$",2
+"570","Smyth",41.885,-87.660736,"Chicago","Chicago","Contemporary","$$$$",2
+"571","Oriole",41.886196,-87.64513,"Chicago","Chicago","Contemporary","$$$$",2
+"572","Acadia",41.85904,-87.62562,"Chicago","Chicago","Contemporary","$$$$",2
+"573","KOKS",62.13667,-7.022025,"Leynar","Denmark","Creative","$$$$",2
+"574","Henne Kirkeby Kro",55.72682,8.242021,"Henne","Denmark","Classic cuisine","$$$",2
+"575","a‚o‚c",55.68305,12.58921,"København","Denmark","Modern cuisine","$$$$",2
+"576","noma",55.68332,12.61006,"København","Denmark","Creative","$$$$",2
+"577","Kadeau Copenhagen",55.67219,12.58848,"København","Denmark","Modern cuisine","$$$$",2
+"578","Spondi",37.96525,23.742971,"Athína","Greece","French","$$$$$",2
+"579","Sun Tung Lok",22.30099,114.17221,"Hong Kong","Hong Kong","Cantonese","$$",2
+"580","Yan Toh Heen",22.293337,114.17395,"Hong Kong","Hong Kong","Cantonese","$$$",2
+"581","Tin Lung Heen",22.30357,114.16007,"Hong Kong","Hong Kong","Cantonese","$$$",2
+"582","Tenku RyuGin",22.30331,114.16021,"Hong Kong","Hong Kong","Japanese","$$$$$",2
+"583","Forum",22.281616,114.1824,"Hong Kong","Hong Kong","Cantonese","$$",2
+"584","Sushi Saito",22.286467,114.15677,"Hong Kong","Hong Kong","Sushi","$$$$$",2
+"585","Pierre",22.282127,114.15948,"Hong Kong","Hong Kong","French contemporary","$$$$",2
+"586","Ying Jee Club",22.284338,114.156654,"Hong Kong","Hong Kong","Cantonese","$$",2
+"587","Écriture",22.28315,114.1554,"Hong Kong","Hong Kong","French contemporary","$$$",2
+"588","Ta Vie",22.282766,114.15529,"Hong Kong","Hong Kong","Innovative","$$$$$",2
+"589","Amber",22.280596,114.15764,"Hong Kong","Hong Kong","French contemporary","$$$$",2
+"590","Kashiwaya",22.280643,114.15674,"Hong Kong","Hong Kong","Japanese","$$$$",2
+"591","Onyx",47.49712,19.05067,"Budapest","Hungary","Modern cuisine","$$$$$",2
+"592","Feng Wei Ju",22.18996,113.54794,"Macau","Macau","Hunanese and Sichuan","$",2
+"593","Golden Flower",22.18753,113.54806,"Macau","Macau","Chinese","$$",2
+"594","Mizumi (Macau)",22.188755,113.54488,"Macau","Macau","Japanese","$$",2
+"595","The Tasting Room",22.14958,113.56505,"Macau","Macau","French contemporary","$$$",2
+"596","Alain Ducasse at Morpheus",22.14293,113.563774,"Macau","Macau","French contemporary","$$$$$",2
+"597","L'Atelier de Joël Robuchon",40.742905,-74.00769,"New York","New York City","French","$$$$",2
+"598","Jungsik",40.718685,-74.00911,"New York","New York City","Korean","$$$$",2
+"599","Atera",40.716797,-74.00565,"New York","New York City","Contemporary","$$$$",2
+"600","Jean-Georges",40.76907,-73.98155,"New York","New York City","Contemporary","$$$$",2
+"601","Marea",40.76749,-73.98114,"New York","New York City","Seafood","$$$$",2
+"602","Gabriel Kreuther",40.75397,-73.982025,"New York","New York City","Contemporary","$$$$",2
+"603","Ichimura at Uchū",40.721832,-73.99012,"New York","New York City","Japanese","$$$$",2
+"604","Sushi Ginza Onodera",40.752396,-73.981575,"New York","New York City","Japanese","$$$$",2
+"605","Ko",40.72909,-73.98448,"New York","New York City","Contemporary","$$$$",2
+"606","The Modern",40.76106,-73.97628,"New York","New York City","Contemporary","$$$$",2
+"607","Aquavit",40.76078,-73.97214,"New York","New York City","Scandinavian","$$$$",2
+"608","Daniel",40.7666,-73.96745,"New York","New York City","French","$$$$",2
+"609","Aska",40.71222,-73.96642,"New York","New York City","Scandinavian","$$$$",2
+"610","Blanca",40.70492,-73.93354,"New York","New York City","Contemporary","$$$$",2
+"611","Patrick Guilbaud",53.33893,-6.25283,"City Centre","Ireland","Modern French","N/A",2
+"612","Oro",-22.98601,-43.22471,"Rio de Janeiro - 22441","Rio de Janeiro","creative","$$$$$",2
+"613","Tuju",-23.55653,-46.69083,"São Paulo - 05416","Sao Paulo","creative","$$$$$",2
+"614","D.O.M.",-23.56618,-46.66742,"São Paulo - 01411","Sao Paulo","creative","$$$$$",2
+"615","Kojima",37.52559,127.04193,"Seoul","South Korea","Sushi","$$$$$",2
+"616","Jungsik",37.525585,127.04107,"Seoul","South Korea","Korean contemporary","$$$",2
+"617","Kwonsooksoo",37.526752,127.03571,"Seoul","South Korea","Korean","$$$",2
+"618","Mingles",37.52219,127.0392,"Seoul","South Korea","Korean contemporary","$$$",2
+"619","Alla Prima",37.51844,127.03008,"Seoul","South Korea","Innovative","$$$",2
+"620","Waku Ghin",1.283175,103.8598,"Singapore","Singapore","Japanese contemporary","$$$$$",2
+"621","Odette",1.2896459,103.8516,"Singapore","Singapore","French contemporary","$$$$",2
+"622","Shoukouwa",1.2863698,103.854,"Singapore","Singapore","Sushi","$$$$$",2
+"623","Shisen Hanten",1.302395,103.8365,"Singapore","Singapore","Chinese","$",2
+"624","Les Amis",1.3066648,103.8314,"Singapore","Singapore","French","$$$",2
+"625","Fäviken Magasinet",63.43626,13.29337,"Järpen","Sweden","Creative","$$$$",2
+"626","Gastrologik",59.33365,18.0807,"Stockholm","Sweden","Creative","$$$$",2
+"627","Oaxen Krog",59.322342,18.101831,"Stockholm","Sweden","Creative","$$$$",2
+"628","Vollmers",55.604427,12.995848,"Malmö","Sweden","Creative","$$$$",2
+"629","Daniel Berlin",55.61246,13.99265,"Skåne-Tranås","Sweden","Creative","$$$$",2
+"630","RAW",25.082666,121.559525,"Taipei","Taipei","Innovative","$$$",2
+"631","Shoun RyuGin",25.08258,121.5595,"Taipei","Taipei","Japanese contemporary","$$$$",2
+"632","Taïrroir",25.082718,121.559296,"Taipei","Taipei","Innovative","$$$",2
+"633","Sushi Amamoto",25.037945,121.55487,"Taipei","Taipei","Sushi","$$$$",2
+"634","The Guest House",25.04486,121.52198,"Taipei","Taipei","Sichuan-Huai Yang","$$",2
+"635","Gaggan",13.737679,100.542145,"Bangkok","Thailand","Innovative","$$$$$",2
+"636","Sühring",13.710947,100.545654,"Bangkok","Thailand","European contemporary","$$$$",2
+"637","Mezzaluna",13.722148,100.51691,"Bangkok","Thailand","Innovative","$$$$$",2
+"638","Le Normandie",13.723197,100.513855,"Bangkok","Thailand","French contemporary","$$$$",2
+"639","minibar",38.896294,-77.02386,"Washington, D.C.","Washington DC","Contemporary","$$$$",2
+"640","Pineapple and Pearls",38.880707,-76.99514,"Washington, D.C.","Washington DC","Contemporary","$$$$",2
+"641","Andrew Fairlie at Gleneagles",56.28339,-3.75149,"Auchterarder","United Kingdom","Creative French","N/A",2
+"642","L'Enclume",54.201885,-2.953807,"Cartmel","United Kingdom","Creative","N/A",2
+"643","Raby Hunt",54.56647,-1.689258,"Summerhouse","United Kingdom","Modern British","N/A",2
+"644","Moor Hall",53.54162,-2.8895495,"Aughton","United Kingdom","Modern British","N/A",2
+"645","Restaurant Sat Bains",52.92438,-1.1733198,"Nottingham","United Kingdom","Creative","N/A",2
+"646","Restaurant Nathan Outlaw",50.594086,-4.82854,"Port Isaac","United Kingdom","Seafood","N/A",2
+"647","Belmond Le Manoir aux Quat' Saisons",51.71674,-1.09187,"Great Milton","United Kingdom","French","N/A",2
+"648","Midsummer House",52.21243,0.12779,"Cambridge","United Kingdom","Modern cuisine","N/A",2
+"649","Hand and Flowers",51.57031,-0.78113,"Marlow","United Kingdom","Modern British","N/A",2
+"650","Ledbury",51.51674,-0.20007,"North Kensington","United Kingdom","Modern cuisine","N/A",2
+"651","CORE by Clare Smyth",51.51261,-0.2030516,"North Kensington","United Kingdom","Modern British","N/A",2
+"652","Le Gavroche",51.51127,-0.15517,"Mayfair","United Kingdom","French","N/A",2
+"653","Kitchen Table at Bubbledogs",51.52041,-0.13647,"Bloomsbury","United Kingdom","Modern cuisine","N/A",2
+"654","Hélène Darroze at The Connaught",51.5101,-0.1495701,"Mayfair","United Kingdom","Modern cuisine","N/A",2
+"655","Dinner by Heston Blumenthal",51.50208,-0.16011,"Hyde Park","United Kingdom","Traditional British","N/A",2
+"656","Umu",51.5113,-0.14455,"Mayfair","United Kingdom","Japanese","N/A",2
+"657","Sketch (The Lecture Room & Library)",51.51287,-0.14136,"Mayfair","United Kingdom","Modern French","N/A",2
+"658","Greenhouse",51.50769,-0.14926,"Mayfair","United Kingdom","Creative","N/A",2
+"659","Claude Bosi at Bibendum",51.49341,-0.1690893,"Chelsea","United Kingdom","French","N/A",2
+"660","Amador",48.25406,16.35915,"Wien","Austria","Creative","$$$$$",3
+"661","Manresa",37.22761,-121.98071,"South San Francisco","California","Contemporary","$$$$",3
+"662","Benu",37.78521,-122.39876,"San Francisco","California","Asian","$$$$",3
+"663","Quince",37.79762,-122.40337,"San Francisco","California","Contemporary","$$$$",3
+"664","Atelier Crenn",37.79835,-122.43586,"San Francisco","California","Contemporary","$$$$",3
+"665","The French Laundry",38.40443,-122.36474,"San Francisco","California","Contemporary","$$$$",3
+"666","The Restaurant at Meadowood",38.52025,-122.46479,"San Francisco","California","Contemporary","$$$$",3
+"667","SingleThread",38.612164,-122.869705,"San Francisco","California","Contemporary","$$$$",3
+"668","Alinea",41.91328,-87.64798,"Chicago","Chicago","Contemporary","$$$$",3
+"669","Geranium",55.70393,12.57197,"København","Denmark","Creative","$$$$",3
+"670","T'ang Court",22.296572,114.1698,"Hong Kong","Hong Kong","Cantonese","$$$",3
+"671","Bo Innovation",22.27614,114.171,"Hong Kong","Hong Kong","Innovative","$$$$$",3
+"672","Lung King Heen",22.28665,114.15674,"Hong Kong","Hong Kong","Cantonese","$$$$",3
+"673","Caprice",22.286646,114.15662,"Hong Kong","Hong Kong","French","$$$$",3
+"674","8½ Otto e Mezzo - Bombana",22.28189,114.15839,"Hong Kong","Hong Kong","Italian","$$$$",3
+"675","L'Atelier de Joël Robuchon",22.281199,114.15816,"Hong Kong","Hong Kong","French contemporary","$$$$",3
+"676","Sushi Shikon",22.28511,114.15208,"Hong Kong","Hong Kong","Sushi","$$$$$",3
+"677","The Eight",22.190475,113.54341,"Macau","Macau","Chinese","$$$",3
+"678","Robuchon au Dôme",22.189949,113.54395,"Macau","Macau","French contemporary","$$$$",3
+"679","Jade Dragon",22.149137,113.56715,"Macau","Macau","Cantonese","$$",3
+"680","Maaemo",59.910477,10.760408,"Oslo","Norway","Modern cuisine","$$$$",3
+"681","Masa",40.76855,-73.98335,"New York","New York City","Japanese","$$$$",3
+"682","Per Se",40.76828,-73.98292,"New York","New York City","Contemporary","$$$$",3
+"683","Le Bernardin",40.76177,-73.98223,"New York","New York City","Seafood","$$$$",3
+"684","Eleven Madison Park",40.7417,-73.98712,"New York","New York City","Contemporary","$$$$",3
+"685","Chef's Table at Brooklyn Fare",40.68872,-73.98581,"New York","New York City","Contemporary","$$$$",3
+"686","La Yeon",37.555813,127.00517,"Seoul","South Korea","Korean","$$$$",3
+"687","Gaon",37.52265,127.03595,"Seoul","South Korea","Korean","$$$$$",3
+"688","Frantzén",59.33418,18.05812,"Stockholm","Sweden","Modern cuisine","$$$$",3
+"689","Le Palais",25.049496,121.51674,"Taipei","Taipei","Cantonese","$$",3
+"690","The Inn at Little Washington",38.713623,-78.16208,"Washington, D.C.","Washington DC","American","$$$$",3
+"691","Fat Duck",51.50828,-0.70232,"Bray","United Kingdom","Creative","N/A",3
+"692","Waterside Inn",51.50773,-0.70121,"Bray","United Kingdom","Classic French","N/A",3
+"693","Alain Ducasse at The Dorchester",51.50712,-0.1525201,"Mayfair","United Kingdom","French","N/A",3
+"694","The Araki",51.511826,-0.140389,"Mayfair","United Kingdom","Japanese","N/A",3
+"695","Gordon Ramsay",51.48546,-0.1620201,"Chelsea","United Kingdom","French","N/A",3
